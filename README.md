@@ -12,4 +12,10 @@
 
 * [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 
+* [Hacking Facebook the Hard Way](https://1hack0.github.io/2019/05/21/hacking-facebook-the-hard-way.html)
+
+* [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+
+  
+
   
