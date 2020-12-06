@@ -30,9 +30,13 @@
   
 * [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
   
+* [web应用安全总结-思维导图](https://www.processon.com/view/571c695ee4b005d06ffe7e66#map)
+  
 
   
 
+  
+  
   
   
   
