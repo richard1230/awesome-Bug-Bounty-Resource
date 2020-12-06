@@ -24,4 +24,8 @@
   
 * [web security-stanford](https://web.stanford.edu/class/cs253/)
   
+* [自学成才的黑客（安全研究员）是从哪学到那些知识的？](https://www.zhihu.com/question/23073812/answer/23563575)
+  
+
+  
 
