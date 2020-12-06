@@ -20,10 +20,8 @@
 
 * [Bug Bounties 101 - Getting Started](https://whitton.io/articles/bug-bounties-101-getting-started/)
 
-* [Writeups-By-philippeharewood](https://philippeharewood.com/facebookbugbounties.txt?fbclid=IwAR0oz0h8ZZh5Qc36vhO7rzPHyBAE5G3qIn9I7D-bbQX2MVlfUFFgQWo6wCE)
-
+* [Writeups-By-philippeharewood](https://philippeharewood.com/facebookbugbounties.txt)
+  
+* [web security-stanford](https://web.stanford.edu/class/cs253/)
   
 
-  
-
-  
