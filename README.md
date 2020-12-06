@@ -16,6 +16,8 @@
 
 * [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
 
+* [learning resource](https://portswigger.net/web-security)
+
   
 
   
