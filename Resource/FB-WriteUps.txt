@@ -1,11 +1,36 @@
-Last updated: May 24 2018
+Last updated: Aug 10 2020
 Use https://www.facebook.com/groups/bugbountygroup/ for additions
+Credit and thanks to all who helped update, edit and add to this list.
+
+Business Logic
+https://www.facebook.com/groups/bugbountygroup/permalink/912689175794578/?hc_location=ufi
+https://bugreader.com/kbazzoun@138
+https://bugreader.com/kbazzoun@146
+https://bugreader.com/godzkid@149
+https://bugreader.com/majd@159
+https://bugreader.com/majd@bypass-the-allow-message-replies-setting-in-instagram-158
+https://bugreader.com/vivekps143@164
+https://medium.com/@saugatpokharel/cannot-revoke-session-on-messenger-for-kids-facebook-bug-bounty-2020-9505ca201ec7
+https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25
+https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e
+https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb
+https://bugreader.com/social/100833
+https://ysamm.com/?p=460
+https://ysamm.com/?p=450
+https://philippeharewood.com/disclose-commerce-manager-users
+https://medium.com/@yaala/malicious-user-can-access-to-rooms-chat-in-facebook-by-brute-forcing-ids-informative-7b11259f60fe
+https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd
 
 ImageTragick
 https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
 
+FBCDN
+https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/
+https://bugreader.com/private@E0GD5-UT71G-G7LBM-OMKT-RPT202
+
 XSS
 https://opnsec.com/2018/03/stored-xss-on-facebook/
+https://vinothkumar.me/20000-facebook-dom-xss/
 https://twitter.com/opnsec/status/855076273395204097
 https://whitton.io/articles/xss-on-facebook-via-png-content-types/
 https://philippeharewood.com/ability-to-upload-html-via-srt-caption-files-for-facebook-videos/
@@ -76,6 +101,7 @@ http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/
 http://xss001.blogspot.in/2016/05/instagram-account-takeover.html
 https://techmedia.com.ng/2016/05/bug-hunter-dislcoses-way-hack-instagram-accounts-facebook/
 https://www.kieranclaessens.be/facebook-text-authentication-flaw.html
+https://ysamm.com/?p=396
 
 Open Redirect ($500+)
 https://thekaitokid.blogspot.com/2014/10/multiple-open-redirection.html
@@ -83,6 +109,9 @@ https://0xsobky.github.io/evading-facebook-linkshim/
 https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/
 https://www.vulnerability-lab.com/get_content.php?id=975
 https://yassineaboukir.com/blog/how-i-discovered-a-1000-open-redirect-in-facebook/
+https://medium.com/@dwi.siswanto98/open-redirect-on-facebook-bypass-linkshim-4050f680d45c
+https://bugreader.com/ant00961@188
+https://philippeharewood.com/change-any-link-at-https-fbwat-ch/
 
 Clickjacking
 https://www.codegrudge.com/2015/03/how-i-got-5000-from-facebook-bugbounty.html
@@ -120,7 +149,10 @@ https://philippeharewood.com/view-saved-offers-of-another-user/
 https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6
 
 Page Roles
+https://medium.com/bugbountywriteup/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb
 http://whitehatstories.blogspot.in/2017/09/how-i-could-have-crashed-page-role.html
+https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/
+https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24
 https://philippeharewood.com/tag-photos-as-a-page-analyst/
 https://philippeharewood.com/using-an-analyst-account-to-post-to-facebook-open-graph-objects/
 https://philippeharewood.com/like-any-facebook-page-as-a-page-analyst/
@@ -132,6 +164,28 @@ https://philippeharewood.com/disclose-users-with-roles-on-facebook-pages/
 https://philippeharewood.com/change-trust-project-credibility-indicators-as-an-analyst/
 https://medium.com/@ajdumanhug/a-simple-bug-on-facebook-that-is-worth-8000-b77f7e01b064
 https://medium.com/@joshuaregio/using-app-ads-helper-as-an-analytic-user-e751fcf9c594
+https://bugreader.com/semicolonlb@disclose-page-admins-for-any-facebook-page-52
+https://khalil-shreateh.com/khalil.shtml/23-khalil/290-facebook-exploit-jan-2015-page-admin-disclosure.html
+https://gbhackers.com/facebook-page-admin/
+https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e
+http://whitehatstories.blogspot.com/2017/09/how-i-could-have-crashed-page-role.html
+https://bugreader.com/smokescreen@disclose-facebook-user-page-roles-admineditormod-94
+https://bugreader.com/kbazzoun@132?fbclid=IwAR1AqIl_MW476E5wNlFcrU_Hd8SYqmbTf1M4GC8pGQlnTZT-NBLNOGO2FdI
+https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24
+https://bugreader.com/addictrao@167
+https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab
+https://bugreader.com/vivekps143@161
+https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184
+https://philippeharewood.com/break-the-facebook-page-icebreaker-faq-feature-for-any-page-admin-using-react-sanitizeurl/
+https://medium.com/@saugatpokharel/all-comments-not-visible-to-the-page-admin-facebook-bug-bounty-89a5798bf640
+https://philippeharewood.com/change-the-profanity-filter-for-any-facebook-page/
+https://bugreader.com/vivekps143@169
+https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f
+https://ysamm.com/?p=479
+https://bugreader.com/vivekps143@race-condition-to-bypass-the-entrant-limit-in-the-facebook-tournament-201
+https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4
+https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7
+https://ullahwasim.github.io/blog/2020/08/06/See-recent-order-items-of-any-Facebook-page.html
 
 Facebook Ads
 https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html
@@ -146,6 +200,10 @@ https://medium.com/@rahulmfg/get-groups-doc-without-user-permission-facebook-gra
 https://philippeharewood.com/the-group-idphotos-endpoint-isnt-obeying-the-publish_actions-and-user_groups-permission-requirement/
 https://zappstiko.blogspot.com/2017/02/facebook-group-hack-in-2015-i-reported.html
 https://medium.com/@iamkartiksingh/missing-functional-level-access-control-in-secret-groups-86da6c110775 
+https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/
+https://medium.com/@rahulmfg/get-groups-doc-without-user-permission-facebook-graph-api-bug-5f19367373a2
+https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a
+https://medium.com/@yaala/become-member-of-close-public-group-9564c359c050
 
 Phone number
 https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3
@@ -165,7 +223,7 @@ https://asad0x01.blogspot.com/2017/05/facebook-buggetting-other-users-ip.html
 Symlink Attack
 https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html
 
-Accellion’s Secure File Transfer
+Accellion芒鈧劉s Secure File Transfer
 http://blog.orange.tw/2016/04/bug-bounty-how-i-hacked-facebook-and-found-someones-backdoor-script.html
 
 XXE
@@ -183,6 +241,8 @@ Jenkins
 https://blog.dewhurstsecurity.com/2014/12/09/how-i-hacked-facebook.html
 
 API
+https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html
+https://bugreader.com/social/write-ups-general-how-we-were-able-to-delete-donald-trump-posts-on-facebook--100955
 https://asad0x01.blogspot.com/2017/05/facebook-bugcommentingon-non-friends.html
 https://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any--user/
 https://roy-castillo.blogspot.com/2013/07/how-i-exposed-your-primary-facebook.html
@@ -256,6 +316,8 @@ https://medium.com/@lokeshdlk77/bypass-oauth-nonce-and-steal-oculus-response-cod
 https://medium.com/@lokeshdlk77/stealing-facebook-mailchimp-application-oauth-2-0-access-token-3af51f89f5b0
 
 Instagram
+https://thezerohack.com/hack-any-instagram
+https://thezerohack.com/hack-instagram-again
 http://www.iltalehti.fi/digi/2016050221506011_du.shtml
 https://viaforensics.com/mobile-security/hacked-your-instagram-account.html 
 https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html
@@ -277,8 +339,10 @@ https://philippeharewood.com/getting-facebook-signal-app-access-token/
 Slingshot
 https://philippeharewood.com/add-any-facebook-user-non-friend-to-slingshot-without-knowing-the-username/
 
-Messenger Lite Android
+Messenger 
 https://www.aryansinha.com/2017/11/session-misconfiguration-in-messenger.html
+https://bugreader.com/kbazzoun@dos-facebook-messenger-webprevent-chat-from-loading-187
+
 
 Moments
 https://philippeharewood.com/rewriting-a-photo-not-owned-by-the-session-user-in-moments-app/
@@ -292,6 +356,12 @@ https://immukul.blogspot.in/2016/11/whatsapp-hacked.html
 http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability
 https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
 
+
 Workplace
 https://philippeharewood.com/a-walk-in-the-workplace/
 https://www.youtube.com/watch?v=H0aQPcuskMo
+
+
+
+
+请输入需要翻译的文本。
