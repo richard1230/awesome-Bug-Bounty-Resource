@@ -60,7 +60,9 @@
 
 * [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)
 
-  
+* [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
+
+* 
 
   
 
