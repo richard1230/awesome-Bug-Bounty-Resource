@@ -56,7 +56,11 @@
 
 * [Awesome-ios-osx-security](https://github.com/ashishb/osx-and-ios-security-awesome)
 
-* 
+* [Awesome-Vulnerability-Research](https://github.com/securitychampions/Awesome-Vulnerability-Research)
+
+* [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)
+
+  
 
   
 
