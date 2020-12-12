@@ -46,4 +46,17 @@
 
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 
+* [redteam_vul](https://github.com/r0eXpeR/redteam_vul)
+
+* [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
+
+* [awesome-exploit-development](https://github.com/FabioBaroni/awesome-exploit-development)
+
+* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
+
+* [Awesome-ios-osx-security](https://github.com/ashishb/osx-and-ios-security-awesome)
+
+* 
+
   
+
