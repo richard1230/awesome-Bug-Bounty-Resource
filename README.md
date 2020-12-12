@@ -21,31 +21,29 @@
 * [Bug Bounties 101 - Getting Started](https://whitton.io/articles/bug-bounties-101-getting-started/)
 
 * [Writeups-By-philippeharewood](https://philippeharewood.com/facebookbugbounties.txt)
-  
+
 * [web security-stanford](https://web.stanford.edu/class/cs253/)
-  
+
 * [自学成才的黑客（安全研究员）是从哪学到那些知识的？](https://www.zhihu.com/question/23073812/answer/23563575)
-  
+
 * [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
-  
+
 * [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
-  
+
 * [web应用安全总结-思维导图](https://www.processon.com/view/571c695ee4b005d06ffe7e66#map)
-  
+
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
-  
+
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-  
+
 * [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
-  
 
-  
+* [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
-  
-  
-  
-  
-  
-  
-  
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+
+* [awesome-security](https://github.com/sbilly/awesome-security)
+
+* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+
   
