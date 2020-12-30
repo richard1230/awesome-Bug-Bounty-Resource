@@ -62,6 +62,8 @@
 
 * [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 
+* [burpSuiteExtensions-toFindVulnerability](https://github.com/bugcrowd/HUNT)
+
 * 
 
   
