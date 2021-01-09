@@ -68,6 +68,12 @@
 
 * [androidmobilepentest101](https://github.com/tsug0d/AndroidMobilePentest101)
 
+* [mobile-pentest-all-resources-in-github](https://github.com/topics/mobile-pentest)
+
+* [SSRF-automatic-SSRFire](https://github.com/micha3lb3n/SSRFire)
+
+* 
+
   
 
   
