@@ -72,7 +72,35 @@
 
 * [SSRF-automatic-SSRFire](https://github.com/micha3lb3n/SSRFire)
 
-* 
+  [summary-about-talk-with-@Agarri_Fr](https://www.youtube.com/watch?v=U0bPPw6uPgY&t=1589s):
+
+  [0.ssrf-101](https://portswigger.net/web-security/ssrf)
+
+  [1.public-section](https://www.agarri.fr/fr/publications.html)
+
+  [2.share-in-twitter](https://twitter.com/Agarri_FR/status/1264295901834752001)
+
+  [3.share-in-twitter](https://twitter.com/Agarri_FR/status/1264295998244958209)
+
+  [4.state of the art, pdf generators](https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit#slide=id.g5df2243028_0_46)
+
+  [5.SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages](./Resource/Agarri_ssrf/SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
+
+  [6.burp, intruder, CSRF](https://www.agarri.fr/blog/archives/2020/01/13/intruder_and_csrf-protected_form_without_macros/index.html)
+
+  7.Burp Suite extensions I recommend (in no specific order): AutoRepeater, Content Type Converter, Param Miner, Request Minimizer, Backslash Powered Scanner, ActiveScan++, Taborator, Paramalyzer, Upload Scanner, Hackvertor, Piper, Request Timer, Logger++, Add Custom Header
+
+  [8.automation via session handling rules](https://twitter.com/Agarri_FR/status/1264297005842608130)
+
+  [9.programming, automate anything, bash](https://gist.github.com/ngregoire/43891d80fde3c6cbb1a52a5a6468fe41)
+
+  [10.Bug Bounties With Bash](https://www.youtube.com/watch?v=s9w0KutMorE)
+
+  [10.1_bug bounty with bash_ppt](./Resource/Agarri_ssrf/bug-bounties-with-bash.pdf)
+
+  
+
+  
 
   
 
